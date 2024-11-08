@@ -1,12 +1,6 @@
 
 ![image](https://github.com/user-attachments/assets/4a218b1f-0b44-4e45-83ad-c9f3c6a218ea)
 
-<div align="center">
-  <br />
-  <a href="https://github.com/Kumarshivam99557/Color-Changing-App" target="_blank">
-    <img src="" alt="Project Banner" />
-  </a>
-  <br />
 
   # Color Changing App
 
