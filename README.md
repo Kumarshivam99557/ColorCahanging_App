@@ -1,5 +1,5 @@
-## ColorCahanging_App
-Color changing website using html, css and javascript
+
+![image](https://github.com/user-attachments/assets/4a218b1f-0b44-4e45-83ad-c9f3c6a218ea)
 
 <div align="center">
   <br />
@@ -45,3 +45,35 @@ Ensure you have the following installed:
    git clone https://github.com/Kumarshivam99557/Color-Changing-App.git
    cd Color-Changing-App
 
+ ## 🤝 Contributing <br />
+
+Contributions to enhance this project are welcome! Here’s how you can contribute: <br />
+
+Fork the repository. <br />
+
+Create a new branch: <br />
+
+bash <br />
+Copy code <br />
+git checkout -b feature/your-feature-name <br />
+Make your changes. <br />
+
+Commit your changes: <br />
+
+bash <br />
+Copy code <br />
+git commit -am 'Add new feature' <br />
+Push to your branch: <br />
+
+bash <br />
+Copy code <br />
+git push origin feature/your-feature-name <br />
+Open a pull request. <br />
+
+ ## 📞 Contact <br />
+
+For any questions or feedback, feel free to reach out via: <br />
+
+Email: thecode.shivam@gmail.com <br />
+
+GitHub: Kumarshivam99557
